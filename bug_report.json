@@ -9,7 +9,7 @@
       3 : "Click on the page" }
     "Result" : "The text filed 'Name' is displaced after clicking on the page",
     "Expected result" : "The text filed 'Name' corresponds to the size specified in specification 2.1" }
-  "Status" : "
+  "Status" : "Open",
   "Reporter" : "Oksana Tyshchenko",
   "Priority" : "Medium",
   "Severity" : "Minor",
